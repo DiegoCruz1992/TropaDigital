@@ -439,9 +439,9 @@
   .rounded-\[100px\] {
     border-radius: 100px;
   }
-  .rounded-full {
+  /* .rounded-full {
     border-radius: calc(infinity * 1px);
-  }
+  } */
   .rounded-lg {
     border-radius: var(--radius-lg);
   }
